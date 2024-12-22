@@ -1,11 +1,7 @@
 - 👋 Hi, I’m bytemaestr0
 
-- I know the basics of Rust, Python, Bash, Html, Css, JavaScript.
+- I am quite experienced with C++ and C#.
 
-- I have a bit of experience in Linux Systems - mostly debian based distros.
+- I know the basics of Rust, Python, Bash and React.
 
-- I’m currently learning Ruby and Python Gui Programming.
-
-- I'm looking to help with any Python/Bash scripts/program problems.
-
-- Fun Fact: I'm currently building a site for my resume.
+- I have am experience with most Linux systems.
